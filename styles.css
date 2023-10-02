@@ -104,7 +104,7 @@ header {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.8)
     ),
-    url("image/main.webp");
+    url("main.webp");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -224,7 +224,7 @@ nav {
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
     ),
-    url("image/pexels-pixabay-33684.jpg");
+    url("pexels-pixabay-33684.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -291,7 +291,7 @@ nav {
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
     ),
-    url("image/pexels-daniel-cid-17505897.jpg");
+    url("pexels-daniel-cid-17505897.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -368,7 +368,7 @@ nav {
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
     ),
-    url("image/india.jpg");
+    url("india.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
